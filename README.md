@@ -4,6 +4,7 @@
 **Student ID:** 26218
 
 
+
 ## My numbers
 - D = 18    L = 8
 - Starting balance = 1180 RWF
