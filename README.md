@@ -12,6 +12,7 @@
 - Bus fare = 218 RWF
 - Student discount = 18%
 
+
 ## Output of main.dart
 ```text
 
