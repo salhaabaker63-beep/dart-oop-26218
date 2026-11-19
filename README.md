@@ -11,6 +11,7 @@
 
 ## Output of main.dart
 ```text
+
 Error: name too short
 Owner: Ama | Balance: 1180 RWF
 Owner: Sara | Balance: 1180 RWF
